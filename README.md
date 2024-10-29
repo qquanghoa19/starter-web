@@ -12,4 +12,4 @@ This is a simple web pj that can be deployed on any Web Servers.
 ## How to contribute
 
 ### Copyright
-2024 Copyright
+2024 CopyrightHa
