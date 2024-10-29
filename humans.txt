@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ha -- team lead -- <twitter>
 
 # THANKS
 
