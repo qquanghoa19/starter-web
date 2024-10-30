@@ -1,7 +1,7 @@
 # Starter web project
 
 ## Introduction
-This is a simple web project
+This is a simple web project. Add oneline to practice rebasing
 
 ## Purpose 
 The purpose of this project is to practice Git
