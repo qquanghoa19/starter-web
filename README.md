@@ -1,7 +1,7 @@
 # Starter web project
 
 ## Introduction
-This is a simple web project. Add oneline to practice rebasing
+This is a simple web project. Add oneline to practice rebasing. Add one more change for feature branch
 
 ## Purpose 
 The purpose of this project is to practice Git
