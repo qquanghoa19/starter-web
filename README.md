@@ -13,4 +13,4 @@ This is a simple web pj that can be deployed on any Web Servers.
 Please fork this repo and make chanegs
 
 ### Copyright
-2024 CopyrightHa
+2024 CopyrightHa. All rights reserved
