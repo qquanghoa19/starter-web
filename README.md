@@ -3,6 +3,7 @@
 ## Introduction
 This is a simple web project. Add oneline to practice rebasing. Add one more change for feature branch
 
+new comment after stashing
 ## Purpose 
 The purpose of this project is to practice Git
 
